@@ -13,13 +13,13 @@ def creatPath(path):
 if __name__ == '__main__':
 
     #创建文件夹路径
-    fpath = "PIC"
+    fpath = "D:\Download\pic"
 
     creatPath(path=fpath)
     #源地址'https://wallhaven.cc/search?q=id%3A2278&sorting=random&ref=fp&seed=ZYNEUQ&page=2' 'https://wallhaven.cc/hot''https://wallhaven.cc/hot?page=4'...
 
     #图片列表链接
-    url = 'https://wallhaven.cc/search?q=id%3A2278&sorting=random&ref=fp&seed=ZYNEUQ&page=2'
+    url = 'https://wallhaven.cc/search?q=id%3A4641&page=4'
 
     print(url)
     #初始化
